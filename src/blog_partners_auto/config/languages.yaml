@@ -1,0 +1,43 @@
+languages:
+  ko:
+    name: "Korean"
+    locale: "ko_KR"
+    search_engines:
+      - naver
+      - google_kr
+    blog_platforms:
+      - tistory
+      - naver_blog
+    youtube_locale: "ko"
+    content_length:
+      blog_min_chars: 1500
+      blog_max_chars: 2500
+      shorts_max_seconds: 60
+
+  en:
+    name: "English"
+    locale: "en_US"
+    search_engines:
+      - google
+      - bing
+    blog_platforms:
+      - wordpress
+      - ghost
+    youtube_locale: "en"
+    content_length:
+      blog_min_words: 1000
+      blog_max_words: 2000
+      shorts_max_seconds: 60
+
+  es:
+    name: "Spanish"
+    locale: "es_ES"
+    search_engines:
+      - google_es
+    blog_platforms:
+      - wordpress
+    youtube_locale: "es"
+    content_length:
+      blog_min_words: 1000
+      blog_max_words: 2000
+      shorts_max_seconds: 60

@@ -1,0 +1,66 @@
+keyword_research_task:
+  description: >
+    Conduct keyword research in Korean for '{topic}' in the '{niche}' niche.
+
+    1. Find relevant Korean keywords using SEO Analyzer
+    2. Analyze search volume, competition, and trends
+    3. Identify primary, secondary, and long-tail keywords
+    4. Consider both Naver and Google Korea patterns
+
+    Target language: {language_name}
+  expected_output: >
+    Keyword report with:
+    - Primary keyword (1) with search volume
+    - Secondary keywords (3-5) with metrics
+    - Long-tail keywords (5-10)
+    - Recommended keyword density
+    - Competitor analysis summary
+  agent: ko_keyword_researcher
+
+blog_writing_task:
+  description: >
+    Write a complete SEO-optimized blog post in Korean about '{topic}'
+    using keywords from the research phase.
+
+    Requirements:
+    - Length: 1500-2500 characters in Korean
+    - Include H1, H2, H3 headings with keywords
+    - Meta description (under 160 characters)
+    - Image placement suggestions
+
+    Target language: {language_name}
+  expected_output: >
+    Complete blog post in Markdown with:
+    - SEO-optimized title
+    - Meta description
+    - Structured headings (H1-H3)
+    - Body content (1500+ characters)
+    - Image prompts
+    - Call to action
+  agent: ko_blog_writer
+  context:
+    - keyword_research_task
+
+shorts_creation_task:
+  description: >
+    Create a YouTube Shorts script in Korean from the blog content
+    about '{topic}'.
+
+    Requirements:
+    - Duration: 30-60 seconds
+    - Strong hook in first 3 seconds
+    - Visual cue annotations per scene
+    - End with clear CTA
+
+    Target language: {language_name}
+  expected_output: >
+    Shorts script with:
+    - Hook (0-3 seconds)
+    - Main content scenes with visual cues
+    - CTA (last 5 seconds)
+    - Thumbnail prompt
+    - Hashtags in Korean
+  agent: ko_shorts_creator
+  context:
+    - keyword_research_task
+    - blog_writing_task
