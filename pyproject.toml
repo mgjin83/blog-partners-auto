@@ -19,6 +19,7 @@ dev = [
 integrations = [
     "deepl>=1.17",
     "google-api-python-client>=2.0",
+    "google-genai>=1.0",
     "openai>=1.30",
 ]
 
