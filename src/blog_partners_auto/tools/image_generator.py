@@ -13,18 +13,17 @@ from google.genai.types import GenerateContentConfig
 # --- Style Lock & Negative Prompt (style_guide.md Section 1) ---
 
 STYLE_LOCK = (
-    "cinematic, shallow depth of field, film noir aesthetic, "
-    "desaturated color palette, high contrast, low-key lighting, "
-    "anamorphic lens, professional color grading"
+    "cinematic, shallow depth of field, natural rich colors, "
+    "soft directional lighting, anamorphic lens, photorealistic"
 )
 
 NEGATIVE_PROMPT = (
     "blur, distortion, watermark, text overlay, low quality, flickering, "
-    "morphing faces, extra limbs, bright colors, cartoon, anime, pixar, "
-    "smiling, oversaturated, plastic look, CGI artifacts, inconsistent lighting"
+    "morphing faces, extra limbs, cartoon, anime, pixar, "
+    "smiling, plastic look, CGI artifacts, inconsistent lighting"
 )
 
-CHARACTER_BASE = "cat face, human body"
+CHARACTER_BASE = "photorealistic, Western Caucasian"
 
 # Model fallback order for image generation
 IMAGE_MODELS = [
@@ -101,9 +100,9 @@ def generate_character_image(
         contents = [
             ref_part,
             (
-                "Using the character in the reference image above as the EXACT SAME character "
-                "(same face pattern, same eye color, same fur markings, same color palette), "
-                "generate a new image. Keep the same colors as the reference — do NOT convert to black and white.\n\n"
+                "Using the person in the reference image above as the EXACT SAME person "
+                "(same face, same hair color, same eye color, same features), "
+                "generate a new image. Keep the same appearance as the reference — do NOT convert to black and white.\n\n"
                 + full_prompt
             ),
         ]
@@ -190,7 +189,7 @@ def generate_character_pack(
     outfit = character_config.get("outfit", "")
     extras = character_config.get("extras", "")
 
-    base_desc = f"++{breed}, {CHARACTER_BASE}++, {eyes}, {build}"
+    base_desc = f"++{breed}++, {CHARACTER_BASE}, {eyes}, {build}"
     if outfit:
         base_desc += f", {outfit}"
     if extras:
