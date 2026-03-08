@@ -1,7 +1,7 @@
 # EP 02 — "The Deal"
 
 > 러닝타임: 45s | Act 1 (Setup)
-> 참조: series_bible.md Section 6, style_guide.md, story_principles.md
+> 참조: series_bible.md Section 6, style_guide.md, video/story_principles.md
 > 지배적 무드: grey → cold blue (차가운 세계로 진입)
 
 ---

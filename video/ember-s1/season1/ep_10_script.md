@@ -1,7 +1,7 @@
 # EP 10 — "Ember"
 
 > 러닝타임: 50s | Act 3 (Cost & Resolution) — 시즌 피날레
-> 참조: series_bible.md Section 6, style_guide.md, story_principles.md
+> 참조: series_bible.md Section 6, style_guide.md, video/story_principles.md
 > 지배적 무드: cold blue → warm amber → lone streetlight (자유의 대가)
 > 삼자 교차점 #2 발생
 > 복선 회수: F01 (감시자), F04 (꽃 비유), F05 (CCTV), F06 (피해자)

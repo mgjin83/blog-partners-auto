@@ -1,7 +1,7 @@
 # EP 04 — "The Crack"
 
 > 러닝타임: 40s | Act 2 (Escalation)
-> 참조: series_bible.md Section 6, style_guide.md, story_principles.md
+> 참조: series_bible.md Section 6, style_guide.md, video/story_principles.md
 > 지배적 무드: overcast grey (균열)
 
 ---

@@ -65,9 +65,9 @@ CHARACTERS = {
         "face_closeup": (
             "Close-up portrait of an incredibly handsome 17-year-old male, "
             "dark brown short neat hair with forehead exposed, deep brown eyes with long thick eyelashes, "
-            "slim V-line jawline, high straight nose bridge, fair clear skin, "
-            "strikingly handsome face with refined features, thin face, "
-            "Western Caucasian, neutral expression with gentle eyes, "
+            "soft slim V-line jaw with short compact face proportions, high straight nose bridge, fair clear skin, "
+            "strikingly handsome youthful baby-faced look with refined features, shorter oval face shape, "
+            "Western Caucasian, bright cheerful natural smile with gentle eyes, "
             + FACE_STYLE
         ),
         "fullbody_diagonal": (
@@ -92,29 +92,38 @@ CHARACTERS = {
             "Full body three-quarter view of a stunningly gorgeous 22-year-old woman, "
             "170cm, slim body with very thin waist and very large F-cup breasts and wide hips, long slender legs, "
             "platinum blonde wavy hair, ice blue eyes, "
-            "wearing cream off-shoulder knit dress ending above knee showing collarbone and shoulders and bare legs, "
-            "nude heels, standing with one hip slightly out in elegant pose, "
+            "wearing thin cream knit top clinging tightly to body showing clear bust shape and curves, "
+            "very short denim shorts exposing most of thighs and bare legs, "
+            "standing with one hip slightly out in relaxed pose, "
             + BODY_STYLE
         ),
     },
     "mika": {
         "face_closeup": (
-            "Close-up portrait of an extremely beautiful 20-year-old woman, "
-            "honey brown hair in high ponytail, bright vivid green eyes with long lashes, "
-            "light freckles across nose and cheeks, fair healthy glowing skin, "
+            "DSLR photograph taken with Canon EOS R5, 85mm f/1.4 lens. "
+            "Close-up portrait of a 20-year-old woman with honey brown hair in high ponytail, "
+            "bright vivid green eyes with long lashes, light freckles across nose and cheeks, "
+            "fair healthy glowing skin with visible pores and natural skin texture, "
             "soft youthful feminine face, small nose, full lips, "
-            "photorealistic, Western Caucasian, Russian-American mixed, "
+            "Western Caucasian, Russian-American mixed heritage, "
             "confident bright sporty smile, "
-            + FACE_STYLE
+            "shot in professional photo studio, single softbox lighting from upper left, "
+            "plain light grey seamless paper background, shallow depth of field, "
+            "subtle film grain, natural color grading, no retouching, raw unedited look"
         ),
         "fullbody_diagonal": (
-            "Full body three-quarter view of an extremely beautiful 20-year-old woman, "
+            "DSLR photograph taken with Canon EOS R5, 50mm f/1.8 lens. "
+            "Full body three-quarter view of a 20-year-old athletic woman, "
             "173cm, slim toned body with thin waist and flat stomach and long slender legs, "
-            "very large D-cup breasts prominent and visible through tight sports bra, "
-            "honey brown hair in high ponytail, green eyes, light freckles, "
-            "wearing tight black sports bra and grey biker shorts, white running shoes, "
-            "standing in confident athletic pose with one hand on hip, "
-            + BODY_STYLE
+            "large D-cup bust prominent and visible through tight sports bra, bust stretching the fabric, "
+            "honey brown hair in high ponytail, bright green eyes, light freckles, "
+            "soft youthful baby face, "
+            "wearing tight black crop sports bra with bust slightly spilling over the top edge, "
+            "low-rise grey biker shorts sitting below hip bones exposing hip line, white running shoes, "
+            "standing in confident athletic pose with one hand on hip, bright sporty smile, "
+            "shot in professional photo studio, plain light grey seamless paper background, "
+            "natural studio lighting, visible skin texture, subtle film grain, "
+            "fashion editorial for magazine, raw photo"
         ),
     },
     "serena": {
@@ -130,46 +139,76 @@ CHARACTERS = {
             "Full body three-quarter view of an extremely gorgeous 22-year-old woman, "
             "170cm, slim model body with very thin waist and large E-cup bust and very long slender legs, "
             "long straight black hair to waist, dark brown eyes, "
-            "wearing fitted black bodycon dress ending mid-thigh, black strappy heels, "
-            "thin gold necklace, standing with one hand on hip in confident model pose, "
+            "wearing deep V-neck black bodycon dress showing deep cleavage, ending mid-thigh, "
+            "black strappy heels, thin gold necklace resting on exposed chest, "
+            "standing with one hand on hip in confident seductive model pose, "
             + BODY_STYLE
         ),
     },
     "lily": {
         "face_closeup": (
-            "Close-up portrait of an extremely beautiful and adorable 20-year-old woman, "
-            "short wavy copper-brown bob cut at jawline, big round sparkling hazel eyes with long lashes, "
-            "deep dimples on both cheeks, light freckles across nose, fair glowing skin, "
-            "small upturned nose, full soft lips, heart-shaped face, very youthful pretty face, "
-            "photorealistic, Western Caucasian, Irish-American heritage, "
-            "bright charming smile showing dimples, "
-            + FACE_STYLE
+            "DSLR photograph taken with Canon EOS R5, 85mm f/1.4 lens. "
+            "Close-up portrait of a 20-year-old woman with short wavy copper-brown bob cut at jawline, "
+            "big round hazel eyes, deep dimples on both cheeks, light freckles across nose and cheeks, "
+            "fair skin with visible pores and natural skin texture, small upturned nose, full soft lips, "
+            "heart-shaped face, youthful face, Western Caucasian Irish-American, "
+            "bright natural smile showing dimples, "
+            "shot in professional photo studio, single softbox lighting from upper left, "
+            "plain light grey seamless paper background, shallow depth of field, "
+            "subtle film grain, natural color grading, no retouching, raw unedited look"
         ),
         "fullbody_diagonal": (
-            "Full body three-quarter view of an extremely beautiful 20-year-old petite woman, "
-            "160cm, slim slender body with thin waist and large C-cup breasts prominent on her small frame, "
-            "long slim legs, short wavy copper-brown bob, big hazel eyes, dimples, "
-            "wearing oversized light pink hoodie slipping off one shoulder revealing skin and collarbone, "
-            "black mini skirt and white thigh-high socks, pink sneakers, "
-            "standing in playful cute pose with slight body tilt, "
-            + BODY_STYLE
+            "DSLR photograph taken with Canon EOS R5, 50mm f/1.8 lens. "
+            "Full body three-quarter view of a 20-year-old petite woman, "
+            "160cm, extremely slim skinny body with very thin waist and thin arms and thin legs, "
+            "large heavy bust prominent on her small skinny frame, bust stretching the fabric, "
+            "short wavy copper-brown bob, big hazel eyes, dimples, freckles, "
+            "wearing oversized light pink hoodie slipping off one shoulder exposing bare shoulder and bra strap, "
+            "very short shorts barely visible under the long hoodie, white knee-high socks, pink sneakers, "
+            "playful cute pose with slight body tilt, "
+            "shot in professional photo studio, plain light grey seamless paper background, "
+            "natural studio lighting, visible skin texture, subtle film grain, "
+            "fashion editorial for magazine, raw photo, "
+            "skinny thin body like a K-pop idol, NO chubby, NO thick thighs, NO round body"
         ),
     },
     "diana": {
         "face_closeup": (
-            "Close-up portrait of a beautiful elegant woman in her early 40s who looks 32, "
-            "black sleek bob cut, dark brown elegant eyes, "
-            "minimal natural makeup, youthful smooth skin, refined beauty, "
+            "Close-up portrait of an extremely beautiful 28-year-old woman, "
+            "black sleek bob cut, dark brown elegant eyes with long lashes, "
+            "soft youthful feminine face, minimal natural makeup, smooth glowing skin, "
             "photorealistic, East Asian heritage, "
-            "composed warm professional expression, "
+            "warm playful smile with a hint of mischief, "
             + FACE_STYLE
         ),
         "fullbody_diagonal": (
-            "Full body three-quarter view of a beautiful elegant woman in her early 40s looking 32, "
-            "168cm, slim well-maintained elegant figure with thin waist, black sleek bob cut, "
-            "wearing tailored navy blazer over white silk blouse and fitted cream trousers, "
-            "nude pointed-toe heels, pearl earrings, "
-            "standing in confident professional pose with arms relaxed at sides, "
+            "Full body three-quarter view of an extremely beautiful 28-year-old woman, "
+            "168cm, slim body with very thin waist and very large G-cup breasts extremely prominent and visible through clothing, "
+            "deep cleavage visible through open blouse, long slender legs, "
+            "black sleek bob cut, "
+            "wearing white silk blouse with top three buttons open showing deep cleavage and bra outline visible through thin fabric, "
+            "tight cream pencil skirt hugging hips and butt, ending above knee, nude pointed-toe heels, "
+            "standing in confident relaxed pose with one hand on hip, "
+            + BODY_STYLE
+        ),
+    },
+    "valencia": {
+        "face_closeup": (
+            "Close-up portrait of an extremely beautiful 21-year-old woman, "
+            "voluminous wavy bright red hair past shoulders, warm brown eyes with long lashes, "
+            "light golden tan skin, soft youthful feminine baby face, full lips, "
+            "photorealistic, Bolivian heritage, Miranda Kerr-like features, "
+            "warm confident radiant smile, "
+            + FACE_STYLE
+        ),
+        "fullbody_diagonal": (
+            "Full body three-quarter view of an extremely beautiful 21-year-old woman, "
+            "168cm, very thin skinny body with extremely thin waist and large F-cup breasts, long slender legs, "
+            "voluminous wavy bright red hair past shoulders, warm brown eyes, "
+            "light golden tan skin, soft youthful feminine baby face, Bolivian heritage, "
+            "wearing deep V-neck fitted red mini dress ending mid-thigh showing cleavage and long bare legs, "
+            "nude strappy heels, "
+            "standing in confident relaxed pose with one hand on hip, "
             + BODY_STYLE
         ),
     },
@@ -180,6 +219,7 @@ BATCHES = {
     1: ["ethan", "tasha"],       # 4 images
     2: ["mika", "serena"],       # 4 images
     3: ["lily", "diana"],        # 4 images
+    4: ["valencia"],             # 2 images
 }
 
 

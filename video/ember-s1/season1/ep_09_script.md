@@ -1,7 +1,7 @@
 # EP 09 — "The Cost"
 
 > 러닝타임: 45s | Act 3 (Cost & Resolution)
-> 참조: series_bible.md Section 6, style_guide.md, story_principles.md
+> 참조: series_bible.md Section 6, style_guide.md, video/story_principles.md
 > 지배적 무드: daylight through blinds → dark (진실의 폭발)
 
 ---

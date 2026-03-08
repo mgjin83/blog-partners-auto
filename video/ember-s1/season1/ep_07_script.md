@@ -1,7 +1,7 @@
 # EP 07 — "The File"
 
 > 러닝타임: 45s | Act 2 (Escalation)
-> 참조: series_bible.md Section 6, style_guide.md, story_principles.md
+> 참조: series_bible.md Section 6, style_guide.md, video/story_principles.md
 > 지배적 무드: cold blue → grey rain (탈출 불가)
 
 ---

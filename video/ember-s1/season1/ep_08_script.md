@@ -1,7 +1,7 @@
 # EP 08 — "Ash and Bone"
 
 > 러닝타임: 45s | Act 3 (Cost & Resolution)
-> 참조: series_bible.md Section 6, style_guide.md, story_principles.md
+> 참조: series_bible.md Section 6, style_guide.md, video/story_principles.md
 > 지배적 무드: afternoon light → shadow (조용한 파괴)
 > 복선 회수: F07 (공원 벤치, EP 04에서 심기)
 

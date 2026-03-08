@@ -5,131 +5,131 @@
 
 ---
 
-### S01 | 0-2s | THUMB-STOP
-> CU, camera at Ethan's chest level, angled up, static
+### S01 | 0-3s | THUMB-STOP
+> CU, camera at chest level, angled up, static
 
-Tasha's arms wrapped tight around Ethan, pulling him into full-body hug. His face pressed into her chest — cheek against collarbone, nose buried. Eyes wide open, pupils blown, arms frozen at sides with fingers spread. Tasha's eyes closed, lips curved in warm smile, chin resting on top of his head. Her platinum blonde waves draped over his shoulders.
+Ethan stands stiff in the doorway, suitcase handle in right hand, shoulders squared and tense. Tasha runs in from inside -- mouth wide open laughing, eyes squeezed shut -- and launches herself at him, wrapping both arms tight around his neck. The impact rocks him backward one step. His eyes snap open round, mouth drops half-open, shoulders hike up to his ears. His suitcase slips from splayed-stiff fingers and tips over onto the floor. Tasha squeezes harder, chin hooking over his shoulder.
 
 ---
 
-### S02 | 2-5s
+### S02 | 3-6s
+> CU, camera at Ethan's eye level, static
+
+Tasha pulls him closer, pressing his cheek against her collarbone. His face slides down into the soft fabric of her knit top. She closes her eyes, lips curving into a soft hum-smile, nose nuzzling into the top of his hair. She sways him gently side to side. Ethan's pupils tremble, eyebrows pinch up in the center. His lips press flat shut, nostrils flare with held breath. His arms stay frozen at his sides, all ten fingers spread stiff, not touching her.
+
+---
+
+### S03 | 6-9s
 > Medium, camera at hip level, static
 
-Tasha releases. Holds Ethan at arm's length by both shoulders. Beaming — teeth showing, eyes crinkled, head tilted right. Ethan's face bright red from jawline to hairline. Eyes aimed at the floor. He blinks rapidly. One hand goes to the back of his neck — nervous rub.
+Tasha loosens her grip and pushes Ethan back to arm's length, both hands on his shoulders. She tilts her head right -- eyes crinkle into half-moons, upper teeth fully showing, thumbs rubbing small circles on his shoulders. Ethan's neck flushes red first. The color crawls up past his jaw, over his cheeks, to his forehead. His gaze drops to the floor. His lower lip catches between his teeth. His right hand rises slowly to rub the back of his neck, left hand clenching and unclenching at his side.
 
 ---
 
-### S03 | 5-8s
+### S04 | 9-12s
 > Medium-Wide, camera from hallway, shooting toward back door
 
-Movement from the backyard door. Mika walks in — black bikini top, denim cutoff shorts riding low on hips, white towel slung over left shoulder. Wet honey-brown hair loose on her shoulders. Bare midriff, toned abs catching the light. She stops, looks at Ethan, one eyebrow up. Her eyes travel from his shoes to his face. She takes a slow sip from a water bottle.
+The glass back door slides open. Mika steps through in a black bikini top and low-riding denim cutoffs, white towel on her left shoulder, wet hair loose on bare skin. She takes two steps inside, spots Ethan, stops mid-stride. One eyebrow arches high, the other stays flat. The corner of her mouth pulls up on one side only, chin dipping slightly. She lifts a water bottle to her lips and takes a slow sip, eyes scanning him from shoes upward, bottle pausing at her lips.
 
 ---
 
-### S04 | 8-11s
+### --- TRANSITION 1: arrival relief → shock (Mika bikini entrance) ---
+
+---
+
+### S05 | 12-14s
 > CU, Ethan's face, camera at eye level, static
 
-Ethan's eyes catch Mika's entrance — he tracks her for half a second, then his gaze snaps straight up to the ceiling. Jaw clenches. Throat bobs with a hard swallow. Ears turning red at the tips.
+Ethan's eyes slide toward Mika's entrance. They track down for half a second -- then snap straight up to the ceiling, eyeballs rolling until whites show at the bottom. His jaw muscles bulge on both sides as he clenches shut. His Adam's apple bobs with a hard, visible gulp. One eyelid twitches. The tips of his ears shift from pink to deep red.
 
 ---
 
-### --- TRANSITION 1: 도착의 안도 → 충격 (Mika 비키니 등장) ---
-
----
-
-### S05 | 11-15s
+### S06 | 14-18s
 > Medium, camera from living room, shooting toward stairs
 
-Tasha's hand on Ethan's lower back, guiding him up the stairs. She walks close — her hip bumps his with each step. Ethan gripping suitcase handle, knuckles white. His body angled slightly away from her but she doesn't notice.
+Tasha places her hand flat on Ethan's lower back and pushes him toward the stairs, lips parted in a light smile, steps bouncy and light. They climb together. Her hip bumps into his with the first step, the second step, the third step. Ethan hunches his shoulders forward, chin tucked down, knuckles bone-white on the suitcase handle, jaw set tight, eyes fixed on the stairs two steps ahead. His upper body tilts away from her but his feet keep climbing.
 
 ---
 
-### S06 | 15-19s
+### S07 | 18-22s
 > Medium, camera from inside Tasha's room, shooting toward doorway
 
-Tasha pushes her bedroom door wide open. Gestures inside proudly. On her bed — visible in the center of the white sheets — a black lace bralette and matching underwear laid out flat, as if she was deciding what to wear. Tasha doesn't glance at them. She points to the wall between rooms.
+Tasha grabs the door handle and swings her bedroom door wide open. She steps aside, chin lifted with pride, eyes bright, and sweeps one arm inward like a tour guide. On the bed behind her, a black lace bralette and matching underwear lie flat on white sheets. She doesn't glance at them. She lifts her other hand and points at the wall to the right, mouth open mid-sentence, weight shifting to one hip.
 
 **DIALOGUE:** "My room. Yours is right here." (5 words)
 
 ---
 
-### S07 | 19-22s
-> CU, Ethan's face, camera at eye level
-
-Ethan's eyes lock on the lingerie on the bed for one beat. His eyes snap to Tasha's face — she's smiling, oblivious. His eyes drop to the floor. He takes a step backward — his back hits the hallway wall with a soft thud. Both hands come up, palms out, defensive. Cheeks burning.
+### --- TRANSITION 2: room tour → mortification (lingerie on bed) ---
 
 ---
 
-### --- TRANSITION 2: 방 안내 → 당혹 (침대 위 속옷) ---
+### S08 | 22-25s
+> CU, Ethan's face, camera at eye level, slow push-in
+
+Ethan's eyes land on the lingerie on the bed. His pupils blow wide. His eyebrows shoot up to his hairline, mouth gaping open. His gaze snaps up to Tasha's face -- she's still smiling with her head tilted, completely unaware. Color drains from his face, then floods back red. He takes one step backward, then another. His back thuds flat against the hallway wall. Both hands shoot up palms-out, fingers shaking slightly, chest rising with a sharp inhale.
 
 ---
 
-### S08 | 22-26s
+### S09 | 25-29s
 > Medium, camera from Ethan's room doorway, shooting inside
 
-Ethan's room. He sets the suitcase on the floor. Sits on the bed edge. Long exhale — cheeks puff out, shoulders drop six inches. One hand rubs the back of his neck. Other hand reaches into the suitcase side pocket — pulls out a small photo frame. A woman's face, soft smile, warm eyes. He places it carefully on the nightstand. His thumb lingers on the glass for one beat, then his hand drops.
+Ethan walks into his room and sets the suitcase on the floor with a thud. He sits on the bed edge -- shoulders cave inward, head drooping. He unzips the suitcase side pocket, reaches in, pulls out a small photo frame. A woman's face with a soft smile. His eyelids lower to half-mast, lips flatten into a thin line. He leans forward and places it on the nightstand. His thumb traces across the glass once, slow and deliberate. His hand drops heavy to his lap. His chest deflates with a long silent exhale.
 
 ---
 
-### S09 | 26-29s
-> Medium, Ethan on bed, camera from foot of bed
+### S10 | 29-32s
+> Medium, camera from foot of bed, low angle
 
-Ethan falls backward onto the mattress. Arms spread. Stares at the ceiling. Blows air through his lips. Rubs both hands over his face. Shakes his head slowly — disbelief.
-
----
-
-### --- TRANSITION 3: 밤의 안도 → 패닉 (Tasha 침입) ---
+Ethan tips backward onto the mattress. His arms flop out wide. He stares at the ceiling, eyes glazed and unfocused. His cheeks puff out with a blown exhale. He lifts both hands and drags his fingers slowly down his face, pulling the skin under his eyes. His mouth twists into a grimace, then relaxes. He shakes his head once, slow, left to right.
 
 ---
 
-### S10 | 29-33s
+### --- TRANSITION 3: quiet night → panic (Tasha invasion) ---
+
+---
+
+### S11 | 32-36s
 > Wide, camera from room corner, diagonal angle, low light
 
-Night. Room dark except pale moonlight from window casting a blue rectangle on the floor. Ethan under covers, on his back, eyes open. Staring at ceiling. Hands flat at his sides on top of the blanket. Rigid. Not sleeping.
+Night. Room dark, pale blue moonlight casting a rectangle on the floor. Ethan lies under covers on his back, eyes open, staring at ceiling, hands flat on top of the blanket. The door handle rotates slowly -- click. His eyes widen, fingers on the blanket curl inward into fists, neck muscles tighten, body freezing mid-breath. The door swings inward. Warm hallway light cuts across the bed. Tasha stands in the doorframe -- thin ice-blue silk camisole, spaghetti straps, hem at mid-thigh, bare legs. Head tilted slightly, eyelids heavy at three-quarter mast, lips parted in a sleepy half-smile, one hand resting on the doorframe, weight shifting to one bare foot. Backlit, her body's outline glows through the fabric.
 
 ---
 
-### S11 | 33-37s
-> CU, camera on door, static then slow pan right
-
-Door handle turns slowly — click. Door swings open. Rectangle of warm hallway light falls across the bed and floor. In the doorframe: Tasha. Silk camisole — thin spaghetti straps, fabric ending mid-thigh, ice blue that matches her eyes. Bare legs from mid-thigh down. Backlit, her body's outline visible through the thin silk. She smiles — lips parted slightly.
-
----
-
-### S12 | 37-41s
+### S12 | 36-40s
 > Medium, camera at mattress level from the opposite side of bed
 
-Tasha walks to Ethan's bed. Three steps. Her fingers hook the edge of the blanket. She lifts it and slides underneath in one smooth motion. Turns onto her side facing away from Ethan. Pulls the covers up to her shoulder. Scoots backward — closing the gap between them until her back meets his side. She settles, wiggling once to get comfortable.
+Tasha takes three steps to the bed, bare feet silent on the floor, eyelids drooping, lips slightly parted in a sleepy pout. Her fingers hook the edge of the blanket and lift it. She slides underneath in one smooth motion. She rolls onto her side facing away from Ethan, body curling loosely, shoulders dropping relaxed. She pulls the covers up to her shoulder. A tiny contented sigh -- her ribcage compresses then expands slow. She scoots her hips backward, inch by inch, until her lower back presses against his ribs. Ethan's jaw clamps shut, tendons pop in his neck, eyes fixed on ceiling refusing to look sideways, fingers gripping the sheet under the blanket, chest stopped -- holding breath.
 
 ---
 
-### S13 | 41-46s
+### S13 | 40-46s
 > CU, camera from pillow level, shooting across both faces in profile
 
-Tasha's back pressed against Ethan's ribs. Her shoulder blades against his chest. She shifts her hips back — they press against his hip. Ethan goes completely rigid. Every neck muscle visible, tendons standing out. His arms are pinned at his sides under the covers. He blinks — rapid-fire, five blinks in one second. Tasha's platinum hair spread across his pillow, touching his jaw.
+Tasha settles against Ethan. Her shoulder blades press into his chest. She wiggles once to get comfortable, then goes still -- face fully relaxed, all muscles soft, lips barely parted, breath slow and even through her nose, one hand tucked under her own chin. Her platinum hair fans across the pillow and touches his jaw. Ethan's every neck tendon stands out like cord. His jaw locks so hard his temple muscles bulge. His eyes go round. He blinks five rapid-fire times in one second. His nostrils flare with shallow, fast breaths. A vein pulses at his temple. His arms pinned at his sides under the blanket -- not one muscle moves.
 
 ---
 
 ### S14 | 46-50s | CLIFFHANGER
 > Extreme CU, Ethan's face, camera directly above
 
-Ethan staring straight up. Not blinking. Jaw clenched — temple muscle twitching. The thin camisole strap on Tasha's visible shoulder slowly slides down her upper arm. Tasha shifts in sleep — her hand reaches back behind her. Her palm lands on Ethan's thigh. Her fingers curl gently into the fabric of his sweatpants. Ethan's eyes go impossibly wider. Mouth opens to say something — nothing comes out.
+Ethan stares straight up. Not blinking. His temple muscle twitches in pulses. On the edge of frame, the thin camisole strap on Tasha's shoulder slides slowly down her upper arm. Tasha shifts in sleep -- a faint smile at the corner of her lips. Her hand reaches behind her body. Her palm lands flat on Ethan's thigh. Her fingers curl inward in a slow unconscious grip, bunching the sweatpants fabric. Ethan's eyes stretch to maximum -- sclera visible all around his iris. His mouth opens but his lower lip trembles. His throat contracts but no sound comes out. Two neck tendons stand out sharp as cables.
 
 FREEZE. CUT TO BLACK.
 
 ---
 
-## 편집자 체크리스트
+## Editor Checklist
 
-| # | 항목 | 결과 |
-|---|------|------|
-| 1 | 첫 씬 CU/Medium | CU ✓ |
-| 2 | HOOK TEXT | "Living with two college cousins..." ✓ |
-| 3 | 전환 3회 이상 | 3회 (Mika 등장 / 침대 속옷 / 밤 Tasha 침입) ✓ |
-| 4 | 평탄 구간 15초 이하 | 최장 평탄 7초 (S08-09) ✓ |
-| 5 | 10초마다 비주얼 변화 | S04/S06/S07/S11 — 모두 10초 이내 변화 ✓ |
-| 6 | 대사 4문장 이하 | 1문장 ✓ |
-| 7 | 마지막 5초 미해결 긴장 | Tasha 손이 허벅지에 + Ethan 경직 ✓ |
-| 8 | Ethan이 뭘 포기 | 프라이버시 (잠금장치 없는 방, Tasha 침대 침입) |
-| 9 | 전술 관계 | Tasha: 환경 우위 (같은 집, 옆방, 침대 접근) |
-| 10 | 떡밥 | 엄마 사진 프레임 (S08) — 회수: EP08, EP10 |
+| # | Item | Result |
+|---|------|--------|
+| 1 | First scene CU/Medium | CU (chest level) |
+| 2 | HOOK TEXT | "Living with two college cousins..." |
+| 3 | Transitions 3+ | 3 (Mika bikini / lingerie on bed / night Tasha invasion) |
+| 4 | No flat section >15s | Longest flat: 4s (S09-S10) |
+| 5 | Visual change every 10s | S04(9s)/S07(18s)/S08(22s)/S11(32s) -- all within 10s |
+| 6 | Dialogue 4 lines max | 1 line |
+| 7 | Last 5s unresolved tension | Tasha's hand on thigh + Ethan frozen |
+| 8 | What Ethan gives up | Privacy (unlocked room, Tasha enters his bed) |
+| 9 | Tactical relationship | Tasha: environment advantage (same house, next room, bed access) |
+| 10 | Foreshadowing | Mom's photo frame (S09) -- payoff: EP08, EP10 |
